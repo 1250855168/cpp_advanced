@@ -61,7 +61,6 @@ int main() {
 
   for (pos = v.begin(); pos != v.end(); pos++)
     pos->display();
-  { /* code */ }
 
   return 0;
 }
