@@ -1,0 +1,80 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_195c6/fast && /usr/bin/make -f CMakeFiles/cmTC_195c6.dir/build.make CMakeFiles/cmTC_195c6.dir/build
+make[1]: Entering directory '/mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_195c6.dir/testCCompiler.c.o
+/mnt/g/Work_code/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_195c6.dir/testCCompiler.c.o   -c /mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp/testCCompiler.c
+gcc.exe: error: /mnt/g/code/cpp_advanced/c++�����/5th_day/build/CMakeFiles/CMakeTmp/testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_195c6.dir/build.make:66: CMakeFiles/cmTC_195c6.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_195c6/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f4d06/fast && /usr/bin/make -f CMakeFiles/cmTC_f4d06.dir/build.make CMakeFiles/cmTC_f4d06.dir/build
+make[1]: Entering directory '/mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f4d06.dir/testCCompiler.c.o
+/mnt/g/Work_code/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_f4d06.dir/testCCompiler.c.o   -c /mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp/testCCompiler.c
+gcc.exe: error: /mnt/g/code/cpp_advanced/c++�����/5th_day/build/CMakeFiles/CMakeTmp/testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_f4d06.dir/build.make:66: CMakeFiles/cmTC_f4d06.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_f4d06/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5c1bc/fast && /usr/bin/make -f CMakeFiles/cmTC_5c1bc.dir/build.make CMakeFiles/cmTC_5c1bc.dir/build
+make[1]: Entering directory '/mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5c1bc.dir/testCCompiler.c.o
+/mnt/g/Work_code/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_5c1bc.dir/testCCompiler.c.o   -c /mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp/testCCompiler.c
+gcc.exe: error: /mnt/g/code/cpp_advanced/c++�����/5th_day/build/CMakeFiles/CMakeTmp/testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_5c1bc.dir/build.make:66: CMakeFiles/cmTC_5c1bc.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_5c1bc/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9a262/fast && /usr/bin/make -f CMakeFiles/cmTC_9a262.dir/build.make CMakeFiles/cmTC_9a262.dir/build
+make[1]: Entering directory '/mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9a262.dir/testCCompiler.c.o
+/mnt/g/Work_code/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_9a262.dir/testCCompiler.c.o   -c /mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp/testCCompiler.c
+gcc.exe: error: /mnt/g/code/cpp_advanced/c++�����/5th_day/build/CMakeFiles/CMakeTmp/testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_9a262.dir/build.make:66: CMakeFiles/cmTC_9a262.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_9a262/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8e6b4/fast && /usr/bin/make -f CMakeFiles/cmTC_8e6b4.dir/build.make CMakeFiles/cmTC_8e6b4.dir/build
+make[1]: Entering directory '/mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8e6b4.dir/testCCompiler.c.o
+/mnt/g/Work_code/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_8e6b4.dir/testCCompiler.c.o   -c /mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp/testCCompiler.c
+gcc.exe: error: /mnt/g/code/cpp_advanced/c++�����/5th_day/build/CMakeFiles/CMakeTmp/testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_8e6b4.dir/build.make:66: CMakeFiles/cmTC_8e6b4.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/mnt/g/code/cpp_advanced/c++疯狂练/5th_day/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_8e6b4/fast] Error 2
+
+
+
